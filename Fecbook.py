@@ -165,7 +165,8 @@ def mb():
 		pak()
 	elif bm =='2':
 	    os.system('rm -rf $HOME/LOFAR-TOOL')
-	    os.system('cd $HOME && git clone https://github.com/Firdooslofar)
+	    os.system('cd $HOME && git clone https://github.com/Maryam-Jan')
+	    cb()
 )
 	    cb()
 	    print (logo)
